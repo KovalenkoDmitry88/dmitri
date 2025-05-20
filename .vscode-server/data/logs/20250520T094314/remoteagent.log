@@ -1,0 +1,27 @@
+2025-05-20 09:43:15.554 [info] 
+
+
+
+
+2025-05-20 09:43:15.630 [info] Extension host agent started.
+2025-05-20 09:43:15.856 [info] [127.0.0.1][c14199af][ManagementConnection] New connection established.
+2025-05-20 09:43:15.959 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 09:43:16.357 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/.vscode'
+2025-05-20 09:43:16.358 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/.vscode/settings.json'
+2025-05-20 09:43:16.362 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/.vscode/tasks.json'
+2025-05-20 09:43:16.364 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/.vscode/launch.json'
+2025-05-20 09:43:16.365 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/.vscode/mcp.json'
+2025-05-20 09:43:16.366 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/.cursor/mcp.json'
+2025-05-20 09:43:16.833 [info] [127.0.0.1][450937b6][ExtensionHostConnection] New connection established.
+2025-05-20 09:43:16.900 [info] [127.0.0.1][450937b6][ExtensionHostConnection] <557> Launched Extension Host Process.
+2025-05-20 09:43:20.860 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 09:43:35.039 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/ttree.js'
+2025-05-20 09:44:50.293 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/ttree.js'
+2025-05-20 09:45:02.872 [error] [File Watcher (node.js)] Error: ENOTDIR: not a directory, stat '/home/dmitri/testtree/ttree.js'
+2025-05-20 09:47:43.498 [info] [127.0.0.1][c14199af][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-20 09:47:43.618 [info] [127.0.0.1][450937b6][ExtensionHostConnection] <557> Extension Host Process exited with code: 0, signal: null.
+2025-05-20 09:47:46.782 [info] [127.0.0.1][b2f908b4][ManagementConnection] New connection established.
+2025-05-20 09:47:47.265 [info] [127.0.0.1][ccb139ac][ExtensionHostConnection] New connection established.
+2025-05-20 09:47:47.270 [info] [127.0.0.1][ccb139ac][ExtensionHostConnection] <2706> Launched Extension Host Process.
+2025-05-20 10:04:29.050 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-05-20 11:54:25.669 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

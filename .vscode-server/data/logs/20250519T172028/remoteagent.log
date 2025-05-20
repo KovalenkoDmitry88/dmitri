@@ -1,0 +1,22 @@
+2025-05-19 17:20:28.996 [info] 
+
+
+
+
+2025-05-19 17:20:29.007 [info] Extension host agent started.
+2025-05-19 17:20:29.040 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dmitri/.vscode-server/extensions
+2025-05-19 17:20:29.078 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 17:20:29.087 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dmitri/.vscode-server/extensions
+2025-05-19 17:20:29.263 [info] [127.0.0.1][16db878b][ManagementConnection] New connection established.
+2025-05-19 17:20:29.580 [info] [127.0.0.1][c803c03f][ExtensionHostConnection] New connection established.
+2025-05-19 17:20:29.589 [info] [127.0.0.1][c803c03f][ExtensionHostConnection] <1165> Launched Extension Host Process.
+2025-05-19 17:20:30.701 [info] ComputeTargetPlatform: linux-x64
+2025-05-19 17:23:06.389 [info] [127.0.0.1][16db878b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-19 17:23:06.470 [info] [127.0.0.1][c803c03f][ExtensionHostConnection] <1165> Extension Host Process exited with code: 0, signal: null.
+2025-05-19 17:23:09.737 [info] [127.0.0.1][cb45aa17][ManagementConnection] New connection established.
+2025-05-19 17:23:10.250 [info] [127.0.0.1][ec9b85fa][ExtensionHostConnection] New connection established.
+2025-05-19 17:23:10.276 [info] [127.0.0.1][ec9b85fa][ExtensionHostConnection] <2193> Launched Extension Host Process.
+2025-05-19 17:58:02.588 [warning] [File Watcher] Watcher shutdown because watched path got deleted (path: /home/dmitri/testtree)
+2025-05-19 17:58:02.613 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-05-19 18:20:10.683 [info] [127.0.0.1][cb45aa17][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-05-19 18:20:11.126 [info] [127.0.0.1][ec9b85fa][ExtensionHostConnection] <2193> Extension Host Process exited with code: 0, signal: null.
